@@ -3,7 +3,7 @@ $jsonFile = 'profile.json';
 
 // Výchozí údaje pro profil
 $profileData = [
-    'name' => 'Neznámý',
+    'name' => 'Oliver Chán',
     'skills' => [],
     'interests' => []
 ];
@@ -97,3 +97,4 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 
 </body>
 </html>
+
